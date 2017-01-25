@@ -1,0 +1,2 @@
+# daiici
+my first repository
